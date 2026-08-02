@@ -8,21 +8,15 @@ Folder Structure
 Core
 ├── Inc
 └── Src
-Inc
 
-Contains application header files.
-
+Inc contains application header files.
 Examples include:
-
 main.h
 Peripheral configuration headers
 User-defined declarations
-Src
 
-Contains the application source files.
-
+Src contains the application source files.
 Examples include:
-
 main.c
 Peripheral initialization
 Robotic arm control logic
