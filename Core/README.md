@@ -1,4 +1,4 @@
-Core
+# Core
 
 This folder contains the application firmware generated using STM32CubeIDE and STM32CubeMX.
 
