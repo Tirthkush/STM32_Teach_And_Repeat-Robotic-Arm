@@ -1,14 +1,8 @@
 # CMSIS
 
-This folder contains the **Cortex Microcontroller Software Interface Standard (CMSIS)** files provided by **Arm**.
+This folder contains the **CMSIS Include** files provided by **Arm**.
 
-CMSIS provides a standardized interface for Cortex-M processors and includes:
-
-- Core processor definitions
-- Startup support
-- Device-specific header files
-- Compiler abstraction
-- System initialization files
+The files define the Cortex-M processor core registers, intrinsic functions, compiler abstractions, and standard interfaces required by the STM32 firmware.
 
 These files are required by the STM32 HAL and the application but are **third-party software** and were **not developed as part of this project**.
 
